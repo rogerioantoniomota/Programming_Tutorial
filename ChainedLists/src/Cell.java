@@ -1,7 +1,7 @@
 
-public class Cell {
+public class Cell<E> {
 	
-	public int content;
+	public E content;
 	public Cell prev;
 	public Cell next;
 
