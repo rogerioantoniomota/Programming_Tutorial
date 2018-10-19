@@ -13,11 +13,12 @@ Proper order of exercises:
   * OOP2 
   * Exceptions 
   * Enums 
+  * InputOutput
 * Advanced
   * Generics 
   * ChainedLists
+  * Collections (coming soon)
   * Threads
-  * InputOutput
   * Client/Server Architecture (coming soon)
   * Databases
  
